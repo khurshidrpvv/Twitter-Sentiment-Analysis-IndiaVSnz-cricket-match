@@ -20,4 +20,4 @@ We used Streaming API to download Tweets for India vs New Zealand 5th odi match 
 
 
 
-Before jumping to code,if you don't have secret keys and tokens ,register at https://apps.twitter.com/ and fill in the details.
+Before jumping to code,if you don't have secret keys and tokens , register at https://apps.twitter.com/ and fill in the details.
