@@ -3,6 +3,7 @@ We download tweets using Streaming API,which is used to stream live tweets.Strea
 
 We used Streaming API to download Tweets for India vs New Zealand 5th odi match played on 29th-oct-2016.India won the match and series.
 
+
 # Tools used 
 
 01 Language : Python
@@ -16,3 +17,7 @@ We used Streaming API to download Tweets for India vs New Zealand 5th odi match 
 05 WordCloud
 
 06 Regular Expession
+
+
+
+Before jumping to code,if you don't have secret keys and tokens ,register at https://apps.twitter.com/ and fill in the details.
